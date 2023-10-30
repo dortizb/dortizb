@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Desarrollador chileno estudiando para ser Full Stack java
+Desarrollador Java/Python
 
 
 ## 🌐 Socials:

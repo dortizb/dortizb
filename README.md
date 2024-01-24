@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Desarrollador Java/Python
+Desarrollador .NET/Python/Java
 
 
 ## 🌐 Socials:
